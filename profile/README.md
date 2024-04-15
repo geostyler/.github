@@ -13,3 +13,7 @@ Contact: [reports@geostyler.org](mailto:reports@geostyler.org)
 Funding: https://opencollective.com/geostyler
 
 We are looking forward to hear what you think about GeoStyler!
+
+## :rocket: GeoStyler Code Sprint 2024
+
+We are happy to announce the third GeoStyler Code Sprint from **17.-21.06.2024** in Paris. Be part of it! More infos on https://geostyler.org/.
