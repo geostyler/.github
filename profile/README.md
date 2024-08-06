@@ -1,5 +1,8 @@
 ![geostyler-logo-full](https://github.com/geostyler/.github/assets/227934/16c38814-3808-436b-9b36-da156d3806fc)
 
+
+[![Discord Banner 2](https://discordapp.com/api/guilds/1016992288028762132/widget.png?style=banner2)](https://discord.gg/yrXHDpcFcB)
+
 ## GeoStyler: a generic styler for geodata
 
 GeoStyler is an open-source React library that enables developers to build flexible and powerful graphical user 
