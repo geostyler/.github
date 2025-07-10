@@ -17,6 +17,6 @@ Funding: https://opencollective.com/geostyler
 
 We are looking forward to hear what you think about GeoStyler!
 
-## :rocket: GeoStyler Code Sprint 2024 ✔️
+## :rocket: GeoStyler Code Sprint 2025 ✔️
 
-The third GeoStyler Code Sprint took place from **17.-21.06.2024** in Paris. Read what has happened in the official recap: https://geostyler.org/codesprint-2024/ (spoiler alert: *a lot* could be accomplished, thx!)
+The third GeoStyler Code Sprint took place from **02.-06.06.2025** in Paris. Read what has happened in the official recap: https://geostyler.org/codesprint-2025/ (spoiler alert: *a lot* could be accomplished, thx!)
